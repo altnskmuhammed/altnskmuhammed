@@ -17,7 +17,6 @@ h3 align="center">A passionate frontend developer from Turkey</h3>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serkanc7&show_icons=true&locale=en" alt="serkanc7" /></p>
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/altnskmuhammed?cardType=octocat&theme=github-dark&Text=30DD25&Background=1F30DD&Title=DCDD1C)](https://git.io/awesome-stats-card)
