@@ -17,8 +17,8 @@
 
 
  <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=usernamecount_private=true&show_icons=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=username&show_icons=true&locale=en&layout=compact" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=altnskmuhammed&count_private=true&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=altnskmuhammed&show_icons=true&locale=en&layout=compact" align = "center"/>
 </p>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altnskmuhammed&theme=merko&show_icons=true)
