@@ -1,6 +1,6 @@
- ###<h3>  Hi there, I’m Muhammed 👋</h3> 
+<h1 align="center">  Hi there, I’m Muhammed 👋</h1> 
 
-### Frontend developer from Turkey
+<h3 align="center"> Frontend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Javascript, React.js , Node.js**
 
