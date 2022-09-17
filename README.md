@@ -1,8 +1,6 @@
 ### Hi there, I’m Muhammed  👋
 
-
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/altnskmuhammed?cardType=github&Border=2A5EDD)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/altnskmuhammed?cardType=octocat&theme=github-dark&Text=30DD25&Background=1F30DD&Title=DCDD1C)](https://git.io/awesome-stats-card)
 
 
 
