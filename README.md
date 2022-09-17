@@ -16,10 +16,6 @@
 </p>
 
 
-
-
-
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/altnskmuhammed?cardType=octocat&theme=github-dark&Text=30DD25&Background=1F30DD&Title=DCDD1C)](https://git.io/awesome-stats-card)
  
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altnskmuhammed&theme=merko&show_icons=true)
