@@ -2,7 +2,7 @@
 
 <h3 align="center"> Frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Javascript, React.js , Node.js**
+<h2 align="center">🌱 I’m currently learning **Javascript, React.js , Node.js** </h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
