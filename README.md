@@ -16,7 +16,7 @@
 </p>
 
 
- <img style="align="center"; " src="https://github-readme-stats.vercel.app/api?username=altnskmuhammed&theme=merko&show_icons=true" alt="">
+ <img style="align="center" " src="https://github-readme-stats.vercel.app/api?username=altnskmuhammed&theme=merko&show_icons=true" alt="">
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altnskmuhammed&theme=merko&show_icons=true)
 
