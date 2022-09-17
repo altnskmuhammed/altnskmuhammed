@@ -1,8 +1,8 @@
 ### Hi there, I’m Muhammed  👋
 
-h3 align="center">A passionate frontend developer from Turkey</h3>
+### Frontend developer from Turkey
 
-- 🌱 I’m currently learning **Javascript, Vue.js, React.js**
+- 🌱 I’m currently learning **Javascript, React.js , Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
