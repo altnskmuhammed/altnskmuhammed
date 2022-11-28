@@ -1,0 +1,86 @@
+.container-fluid{
+
+margin: 0 8rem !important;
+}
+.navbar-brand{
+    border: 1px solid black;
+    border-radius: 2rem;
+}
+.carousel__content{
+    margin: 4px 0;
+}
+.carousel-caption{
+    position: absolute;
+    left: 3rem;
+    top: 24rem;
+    font-size: larger;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+}
+.card__body{
+    text-align: center;
+}
+.fa-fighter-jet{
+    margin-top: 2rem;
+}
+.jumbotron{
+    background-image: url('./hd.jpg');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    box-shadow:#DDD 0 0 25px;
+    background-size:contain;
+    height: fit-content;
+}
+.col-sm-6{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 1rem 4rem !important;
+}
+.crsl__inner{
+    height: 6rem;
+}
+.crsl__caption{
+    position: absolute;
+    top: 1rem;
+    background: green;
+}
+.crsl__caption > h5{
+   position: absolute;
+   top: 0;
+   left: 50%;
+   transform: translateX(-50%);
+}
+.col-sm-2 > i{
+    font-size: 5rem;
+}
+.col-sm-2{
+    border-right: 1px solid grey;
+}
+.col-sm-2:last-child{
+    border: none;
+}
+.collapse > a{
+    margin: 2px;
+}
+.row{
+  
+}
+.footer__link {
+    display: flex;
+    flex-direction: row;
+    column-gap: 18px;
+    justify-content: flex-end;
+   
+}
+.footer__link > a {
+    text-decoration: none;
+    color: grey;
+}
+.footer__small{
+    background-color:rgba(220, 220, 220, 0.5);
+    font-size: small;
+    
+}
